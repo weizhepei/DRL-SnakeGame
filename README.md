@@ -1,4 +1,4 @@
-# Autonomous Agents in Snake Game via Deep Reinforcement Learning
+## Autonomous Agents in Snake Game via Deep Reinforcement Learning
 If you find this project helpful, please cite our paper. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8460004) [[slides]](https://weizhepei.com/files/ICA-2018-AASG.pptx)
 ```
 @inproceedings{wei2018autonomous,
